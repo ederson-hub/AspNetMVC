@@ -1,0 +1,4 @@
+C:\workspace\CursoMVC\CursoMVC\CursoTest\obj\Debug\netcoreapp3.0\CursoTest.csprojAssemblyReference.cache
+C:\workspace\CursoMVC\CursoMVC\CursoTest\obj\Debug\netcoreapp3.0\CursoTest.AssemblyInfoInputs.cache
+C:\workspace\CursoMVC\CursoMVC\CursoTest\obj\Debug\netcoreapp3.0\CursoTest.AssemblyInfo.cs
+C:\workspace\CursoMVC\CursoMVC\CursoTest\obj\Debug\netcoreapp3.0\CursoTest.csproj.CoreCompileInputs.cache
