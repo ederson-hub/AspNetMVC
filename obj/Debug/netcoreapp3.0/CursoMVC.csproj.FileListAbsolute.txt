@@ -1,0 +1,8 @@
+C:\workspace\CursoMVC\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.0\CursoMVC.csprojAssemblyReference.cache
+C:\workspace\CursoMVC\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.0\CursoMVC.dll.config
+C:\workspace\CursoMVC\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.0\CursoMVC.AssemblyInfoInputs.cache
+C:\workspace\CursoMVC\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.0\CursoMVC.AssemblyInfo.cs
+C:\workspace\CursoMVC\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.0\CursoMVC.csproj.CoreCompileInputs.cache
+C:\workspace\CursoMVC\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.0\CursoMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\workspace\CursoMVC\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.0\CursoMVC.RazorAssemblyInfo.cache
+C:\workspace\CursoMVC\CursoMVC\CursoMVC\obj\Debug\netcoreapp3.0\CursoMVC.RazorAssemblyInfo.cs
